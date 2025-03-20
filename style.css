@@ -120,7 +120,7 @@ body{
     padding-top: 50px;
 }
 .avatar{
-    width: 180px;
+    width: 150px;
     height: 150px;
     background-color: var(--yellow);
     border-radius: 50%;
