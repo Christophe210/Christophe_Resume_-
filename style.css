@@ -133,7 +133,7 @@ body{
 .avatar img{
     position: absolute;
     bottom: 0;
-    width: 100%;
+    width: 80%;
     height: 80%;
     border-bottom-left-radius: 41%;
     border-bottom-right-radius: 41%;
